@@ -73,4 +73,3 @@ python ptq_main.py --weights_ptq='your .pt path'
 
 ***
 I especially want to thank the previous work of [FQVIT](https://github.com/megvii-research/FQ-ViT) and [TensorRT](https://github.com/NVIDIA/TensorRT/tree/release/8.6/tools/pytorch-quantization), as my own work may seem somewhat inadequate. I hope for your understanding and forgiveness.# Q-YOLO
-# Q-YOLO
